@@ -1,5 +1,5 @@
 # Synthetic-Data-For-Finance
-This repository complements the CFA Institute's Research and Policy Center [Synthetic Data in Investment Management](some_url) report. It aims to serve as a centralized hub for generative AI (genAI) approaches to synthetic data generation and their applications within finance. The repository provides a curated list of libraries,  papers and case studies that can be used for synthetic data generation to aid practitioners and is regularly updated. 
+This repository complements the CFA Institute's Research and Policy Center [Synthetic Data in Investment Management](https://rpc.cfainstitute.org/research/reports/2025/synthetic-data-in-investment-management) report. It aims to serve as a centralized hub for generative AI (genAI) approaches to synthetic data generation and their applications within finance. The repository provides a curated list of libraries,  papers and case studies that can be used for synthetic data generation to aid practitioners and is regularly updated. 
 
 ## 📘 Contents
 - [🧠 Overview](#-overview)
